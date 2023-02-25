@@ -49,7 +49,7 @@ yarn dev
 
 ## 🚀 Deploy
 
-⇒ 
+⇒ https://hackatweet-frontend-sable.vercel.app/login
 
 ## 🧑‍💻 Authors
 
